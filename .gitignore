@@ -1,0 +1,9 @@
+./local-rag/
+local-rag/
+venv/
+.ipynb_checkpoints/
+text_chunks_and_embeddings_df.csv
+images/
+video_notebooks/
+human-nutrition-text.pdf
+README.md
